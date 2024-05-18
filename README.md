@@ -1,2 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eGCX6fLD)
-# INF 6420 - Intro to Web Development
+# Jennifer Markowitz's INF6420 Project
+
+A portfolio site showcasing my work.
+
+## Wireframes
+
+I value planning so here are some wireframes to show how the site architecture and layout could look.
+
+![Wireframe of Landing Page](wireframes/wireframe-sketch-02.jpg)
+
+Header - will include my navigation menu and my name
+
+Navigation Menu - will include links to other pages
+
+Main Content - will talk about the information I wish to highlight
+
+Footer - will include copyright information
